@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/edu.iastate.jchecker.feature_1.0.0.201304281609.jar" id="edu.iastate.jchecker.feature" version="1.0.0.201304281609">
+      <category name="jchecker"/>
+   </feature>
+   <category-def name="jchecker" label="J-Checker"/>
+</site>
